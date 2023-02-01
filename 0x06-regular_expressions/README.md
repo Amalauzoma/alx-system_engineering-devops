@@ -24,3 +24,6 @@ a+	One or more of a
 a{3}	Exactly 3 of a
 a{3,}	3 or more of a
 a{3,6}	Between 3 and 6 of a
+
+
+![RegEXP Python](https://user-images.githubusercontent.com/111263525/215914291-7828e208-6048-4f40-a9aa-bba664bafadb.gif)
